@@ -1,9 +1,7 @@
 
   <h1>🔐 AES_Crypto_Tool</h1>
     <p class="lead">A simple AES (Fernet) encryption &amp; decryption tool — generate secret keys, encrypt text/files, and decrypt using the same key. Streamlit / Flask + Electron versions included.</p>
-
-  <a class="btn" href="sandbox:/mnt/data/AES_Crypto_Tool.zip" download>📦 Download Project ZIP</a>
-
+    
   <div class="section">
       <h2>Features</h2>
       <ul>
